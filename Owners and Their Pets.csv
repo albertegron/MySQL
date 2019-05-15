@@ -1,0 +1,4 @@
+"ERROR:  syntax error at or near "CREATE"
+LINE 5: CREATE DATABASE animal_owner
+        ^
+"
